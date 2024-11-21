@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22230306153",
+    "project_id": "passwordmanagerapp-ca37a",
+    "storage_bucket": "passwordmanagerapp-ca37a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22230306153:android:623b959d51e0f2fa6ac1f8",
+        "android_client_info": {
+          "package_name": "com.example.gestiondeclavesegura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRSCOBzfT40sNAAkf_wX6254Bw9_hzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
